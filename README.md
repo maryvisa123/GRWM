@@ -1,6 +1,6 @@
 # GRWM
 
-Welcome to `GRWM`! This is a fast-paced, casual game where you help Sally prepare for her job interview. With only 60 seconds on the clock, you need to help her get ready. You'll need to choose between getting her makeup done, outfit sorted, hair styled, and files ready. You won't have enough time to get everything done, so make your choices wisely.
+Welcome to `GRWM`! This is a fast-paced, casual game where you help Sally prepare for her job interview. With only 60 seconds on the clock, you need to help her get ready. You'll need to choose between getting her makeup done, outfit sorted, hair styled, and files ready. You won't have enough time to get everything done, so make your choices wisely. You can watch a demo of this game [here](https://youtu.be/5qtWPs5PL84)
 
 ## Game Objective
 
